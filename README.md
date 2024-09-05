@@ -10,15 +10,7 @@ Hello, I'm Krunal Trivedi, a dedicated 4th-year student of Computer Engineering 
   - 💬 Ask me about **Html, Css, Bootstrap, Javascript, jQuery, Sql, Odoo **
 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://x.com/DeveloperKrunal" target="blank"><i align="center" class="devicon-twitter-original" alt="DeveloperKrunal" height="40" width="60" ></i>
-</a>
-<a href="https://www.linkedin.com/in/trivedikrunal/" target="blank"><i align="center" class="devicon-linkedin-plain colored" alt="trivedikrunal" height="40" width="60" ></i>
-</a>
-</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=trivedikrunal&label=Profile%20views&color=0e75b6&style=flat" alt="trivedikrunal" /> </p>
 
 ------
 <h3 align="left">Activity:</h3>
